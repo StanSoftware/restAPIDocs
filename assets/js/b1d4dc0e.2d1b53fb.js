@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrest_api_doc=self.webpackChunkrest_api_doc||[]).push([[2398],{604:e=>{e.exports=JSON.parse('{"permalink":"/restAPIDocs/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

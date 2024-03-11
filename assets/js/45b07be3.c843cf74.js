@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrest_api_doc=self.webpackChunkrest_api_doc||[]).push([[5611],{9592:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/restAPIDocs/blog/tags/docusaurus","allTagsPath":"/restAPIDocs/blog/tags","count":4,"unlisted":false}')}}]);
