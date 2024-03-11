@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrest_api_doc=self.webpackChunkrest_api_doc||[]).push([[2634],{192:(e,s,r)=>{r.r(s),r.d(s,{default:()=>o});r(6540);var t=r(6347),c=r(6025),a=r(4848);const o=function(){return(0,a.jsx)(t.rd,{to:(0,c.A)("/docs/SharePro Rest API")})}}}]);
